@@ -1,2 +1,2 @@
-# BancoLucas
-Projeto de demonstração
+# Banco Lucas
+Projeto de demonstração.
